@@ -29,6 +29,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `Screenshot of the frontend`
+<img width="1854" height="876" alt="image" src="https://github.com/user-attachments/assets/5efe75f4-c08a-4870-ab79-153580f2aca5" />
+
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
