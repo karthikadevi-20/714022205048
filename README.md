@@ -51,10 +51,6 @@ Run the development server
 npm start
 
 The app will run at 👉 http://localhost:3000
-### 📸 Screenshots (Demo)
-🔗 URL Shortener Page
-<img width="1854" height="876" alt="Screenshot 2025-09-04 143311" src="https://github.com/user-attachments/assets/09244c7a-0434-4f28-bcef-8085cd2b814e" />
-
 
 🎯 Future Enhancements
 
