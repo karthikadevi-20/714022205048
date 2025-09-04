@@ -33,27 +33,7 @@ This app allows users to shorten URLs, manage expiry times, add custom shortcode
 - **React Router DOM** for navigation  
 - **JavaScript (ES6+)**  
 
----
 
-## 📂 Project Structure
-
-url-shortener-frontend/
-│── src/
-│ ├── components/
-│ │ ├── UrlForm.js
-│ │ ├── UrlList.js
-│ │ └── StatsTable.js
-│ ├── pages/
-│ │ ├── ShortenerPage.js
-│ │ └── StatisticsPage.js
-│ ├── App.js
-│ ├── index.js
-│ └── index.css
-│── package.json
-│── README.md
-
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -73,8 +53,7 @@ npm start
 The app will run at 👉 http://localhost:3000
 📸 Screenshots (Demo)
 🔗 URL Shortener Page
-
-    <img width="1854" height="876" alt="image" src="https://github.com/user-attachments/assets/b1e5916a-6b7a-4840-8534-4d260d3bd418" />
+<img width="1854" height="876" alt="Screenshot 2025-09-04 143311" src="https://github.com/user-attachments/assets/09244c7a-0434-4f28-bcef-8085cd2b814e" />
 
 
 🎯 Future Enhancements
